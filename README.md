@@ -54,5 +54,7 @@ semana1-backend/
 cd python
 python main.py
 
+### Node
+```bash
 cd node
 node index.js
