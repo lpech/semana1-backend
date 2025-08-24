@@ -58,3 +58,12 @@ python main.py
 ```bash
 cd node
 node index.js
+
+---
+
+## 🧪 Pruebas unitarias
+
+Las funciones en `utilidades.py` están cubiertas por pruebas en `tests/test_utilidades.py`.  
+Para ejecutarlas:
+```bash
+python -m unittest discover python/tests
